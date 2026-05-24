@@ -4,9 +4,9 @@ return (
 
 <div className="header">
 
-<h1>React Store</h1>
+<h1>Online Store</h1>
 
-<p>Simple E-Commerce Website</p>
+<p> E-Commerce Website</p>
 
 <button
 className="themeBtn"
