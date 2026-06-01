@@ -2,6 +2,9 @@
 
 A responsive and interactive E-Commerce frontend application built with React. The application provides a modern shopping experience where users can browse products, search items, add products to the cart, manage quantities, and switch between light and dark modes.
 
+https://github.com/achyuthjoshi07/Ecommerce-Web/blob/5f83a0a3c40289e00a05900962634d0938141f3f/PICTURE.png
+
+
 🚀 Features
 -> Product listing page
 -> Add to cart feature
